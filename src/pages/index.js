@@ -1,3 +1,10 @@
 import React from "react"
 
-export default () => <div>Example Theme</div>
+import Layout from "../components/layout"
+
+const IndexPage = () => (
+    
+    <Layout />
+)
+
+export default IndexPage
